@@ -1,0 +1,1 @@
+rustc $1 -o targets/out && ./targets/out
